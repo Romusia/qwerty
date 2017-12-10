@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Group>
+    <exam>
+        <title>Math</title>
+        <writingDate/>
+    </exam>
+    <exam>
+        <title>Math</title>
+        <writingDate/>
+    </exam>
+    <exam>
+        <title>Mova</title>
+        <writingDate/>
+    </exam>
+    <exam>
+        <title>Java</title>
+        <writingDate/>
+    </exam>
+    <name>System analitic</name>
+    <number>107</number>
+</Group>

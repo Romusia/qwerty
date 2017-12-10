@@ -1,0 +1,73 @@
+{
+  "name" : "System analitic",
+  "number" : 107,
+  "exam" : [ {
+    "title" : "Math",
+    "type" : "EXAM",
+    "writingDate" : {
+      "year" : 2017,
+      "month" : "OCTOBER",
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      },
+      "dayOfMonth" : 11,
+      "dayOfWeek" : "WEDNESDAY",
+      "dayOfYear" : 284,
+      "era" : "CE",
+      "monthValue" : 10,
+      "leapYear" : false
+    }
+  }, {
+    "title" : "Math",
+    "type" : "EXAM",
+    "writingDate" : {
+      "year" : 2017,
+      "month" : "OCTOBER",
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      },
+      "dayOfMonth" : 10,
+      "dayOfWeek" : "TUESDAY",
+      "dayOfYear" : 283,
+      "era" : "CE",
+      "monthValue" : 10,
+      "leapYear" : false
+    }
+  }, {
+    "title" : "Mova",
+    "type" : "ZALIK",
+    "writingDate" : {
+      "year" : 2017,
+      "month" : "OCTOBER",
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      },
+      "dayOfMonth" : 15,
+      "dayOfWeek" : "SUNDAY",
+      "dayOfYear" : 288,
+      "era" : "CE",
+      "monthValue" : 10,
+      "leapYear" : false
+    }
+  }, {
+    "title" : "Java",
+    "type" : "EXAM",
+    "writingDate" : {
+      "year" : 2017,
+      "month" : "OCTOBER",
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      },
+      "dayOfMonth" : 20,
+      "dayOfWeek" : "FRIDAY",
+      "dayOfYear" : 293,
+      "era" : "CE",
+      "monthValue" : 10,
+      "leapYear" : false
+    }
+  } ]
+}
